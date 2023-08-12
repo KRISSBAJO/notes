@@ -13,3 +13,6 @@ Need to have installed [nodeJS](https://nodejs.org/en) in your machine
 
 [Future of CRA](https://github.com/reactjs/react.dev/pull/5487#issuecomment-1409720741)
 
+[Webpack](https://webpack.js.org/)
+
+[codesandbox](https://codesandbox.io)
