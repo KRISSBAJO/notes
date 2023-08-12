@@ -7,6 +7,8 @@
 
 **ReactJS:**
 
+Need to have installed [nodeJS](https://nodejs.org/en) in your machine 
+
 [Create React App](https://create-react-app.dev/)
 
 [Future of CRA](https://github.com/reactjs/react.dev/pull/5487#issuecomment-1409720741)
